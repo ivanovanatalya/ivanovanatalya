@@ -7,7 +7,6 @@
 #### Используемые языки и технологии:
 > *frontend:*  
 ![JavaScript](https://img.shields.io/badge/javascript-36465D.svg?style=for-the-badge&logo=javascript&logoColor=8FD337)
-![TypeScript](https://img.shields.io/badge/typescript-36465D.svg?style=for-the-badge&logo=typescript&logoColor=8FD337)
 ![React](https://img.shields.io/badge/react-36465D.svg?style=for-the-badge&logo=react&logoColor=8FD337)
 ![Redux](https://img.shields.io/badge/redux-36465D.svg?style=for-the-badge&logo=redux&logoColor=8FD337)
 ![Jest](https://img.shields.io/badge/jest-36465D.svg?style=for-the-badge&logo=jest&logoColor=8FD337)
