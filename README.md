@@ -32,5 +32,3 @@
 </p>
 
 [def]: https://t.me/terehinann
-- ⚡ Fun fact: ...
--->
