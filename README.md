@@ -1,4 +1,8 @@
 ### Привет! Меня зовут Наталья &nbsp;<a href="https://t.me/terehinann" target="_blank" rel="nofollow"><img alt="Natalia's Telegram" width="24px" src="./images/telegram.png" /></a>
+#### Интересуюсь разработкой веб-приложений
+#### Завершила обучение:
+> &bullet;
+[Яндекс.Практикум](https://drive.google.com/file/d/1SQ_itTb_jI1HGl0CcrK5rn_AGbR6DCQ4/view?usp=sharing) &bullet;
 
 #### Используемые языки и технологии:
 > *frontend:*  
